@@ -23,7 +23,7 @@ def load_runtime():
 
 st.set_page_config(
     page_title="Chest X-ray Classification",
-    page_icon="🩻",
+    page_icon="🫁",
     layout="wide",
 )
 

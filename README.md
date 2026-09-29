@@ -1,8 +1,8 @@
 # Chest X-ray Classification Prototype
 
-This Streamlit application loads the Validation-selected EfficientNetB0
-classifier and returns a predicted class and probability distribution for
-an uploaded chest X-ray.
+This Streamlit application loads the Validation-selected
+EfficientNetB0 classifier and returns a predicted class and
+probability distribution for an uploaded chest X-ray.
 
 ## Supported files
 
